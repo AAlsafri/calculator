@@ -3,7 +3,7 @@ public class App{
 
     public static void main(String[] args){
         System.out.println("Welcome, World!");
-
+    //making a change to this code for Github workflow practice
        static final Scanner inputScanner = new Scanner(System.in);
        double num1, num2, result;
        char operator;
